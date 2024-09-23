@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2022-12-10T19:50:12.584Z",
-    "end": "2022-12-10T19:50:14.767Z",
-    "duration": 2183
+    "start": "2024-09-23T17:03:19.603Z",
+    "end": "2024-09-23T17:03:20.101Z",
+    "duration": 498
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
-      "duration": 8,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -101,7 +101,7 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
-      "duration": 8,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
