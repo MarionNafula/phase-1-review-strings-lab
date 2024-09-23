@@ -10,3 +10,4 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const shortGreeting = `Welcome, G!`;
 
+
